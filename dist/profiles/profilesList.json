@@ -1,0 +1,18 @@
+[
+  "WebVR Daydream Controller",
+  "WebVR Oculus Go Controller",
+  "WebVR Oculus Touch (Right)",
+  "WebVR Oculus Touch (Left)",
+  "WebVR OpenVR Gamepad",
+  "WebVR Spatial Controller (Spatial Interaction Source) 045E-065D",
+  "button-controller",
+  "google-daydream",
+  "htc-vive",
+  "microsoft-045e-065d",
+  "oculus-go",
+  "oculus-touch",
+  "samsung-gearvr",
+  "thumbstick-controller",
+  "touchpad-controller",
+  "touchpad-thumbstick-controller"
+]
